@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ejercicio</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvFecha">Fecha de nacimiento</string>
+    <string name="tvTel">Telefono</string>
+    <string name="tvMail">E-mail</string>
+    <string name="tvDescripcion">Descripcion de contacto</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_ingresar">Ingresar fecha</string>
+    <string name="confirmarDatos">Confirmar datos</string>
+    <string name="editarNombre">Camilo Mandressi</string>
+    <string name="editarFecha">18/04/1988</string>
+    <string name="editarTelefono">099145487</string>
+    <string name="editarMail">camilo@gmail.com</string>
+    <string name="editarDescripcion">Hola ke ase</string>
+    <string name="editarDatos">Editar</string>
+
+
+
+</resources>
